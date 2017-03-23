@@ -1,0 +1,13 @@
+Guidelines For Headplates
+
+1.2-1.3 mm is a good overall thickness guideline.
+
+We have them waterjet cut using non heat-treated 17-7 stainless steel.
+17-7 is machinable and when heat treated is slightly harder than most common titanium alloys.
+
+We order 36" x 36" sheets at 0.05"
+From: https://www.onlinemetals.com/merchant.cfm?pid=9685&step=4&showunits=inches&id=306&top_cat=0
+
+But, you can get this anywhere.
+
+Datasheet: http://www.aksteel.com/pdf/markets_products/stainless/precipitation/17-7_ph_data_sheet.pdf
